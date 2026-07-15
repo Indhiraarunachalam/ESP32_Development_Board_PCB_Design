@@ -84,15 +84,17 @@ ESP32-Development-Board-PCB-Design
 
 ### Schematic
 
+![ESP32 Schematic Part 1](Images/ESP32_Schematic_1.png)
 
+![ESP32 Schematic Part 2](Images/ESP32_Schematic_2.png)
 
 ### PCB Layout - Top View
 
-(Add your PCB top screenshot here)
+![ESP32 PCB Top Layer](Images/ESP32_PCB_TopLayer.png)
 
 ### PCB Layout - Bottom View
 
-(Add your PCB bottom screenshot here)
+![ESP32 PCB Bottom Layer](Images/ESP32_PCB_BottomLayer.png)
 
 ---
 
