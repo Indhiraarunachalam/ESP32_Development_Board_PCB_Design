@@ -90,11 +90,11 @@ ESP32-Development-Board-PCB-Design
 
 ### PCB Layout - Top Layer
 
-![ESP32 PCB Top Layer](Images/ESP32_PCB_Toplayer.png)
+![ESP32 PCB Top Layer](Images/ESP32_PCB_Toplayer_v2.png)
 
 ### PCB Layout - Bottom Layer
 
-![ESP32 PCB Bottom Layer](Images/ESP32_PCB_Bottomlayer.png)
+![ESP32 PCB Bottom Layer](Images/ESP32_PCB_Bottomlayer_v2.png)
 
 ---
 
